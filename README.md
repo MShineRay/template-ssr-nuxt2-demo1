@@ -1,4 +1,4 @@
-# template-ssr-nuxt2-demo1
+# template-ssr-nuxt2-elementui
 
 ## Build Setup
 
