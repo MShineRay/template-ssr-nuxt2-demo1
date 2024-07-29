@@ -1,0 +1,1 @@
+# template-ssr-nuxt2-demo1
